@@ -1,0 +1,6 @@
+2025-06-24 19:37:38,956 - INFO - Connected to Binance Futures Testnet
+2025-06-24 19:37:39,598 - INFO - Connected to Binance Futures Testnet
+2025-06-24 19:37:39,598 - INFO - Limit order placed: {'status': 'NEW', 'orderId': 2, 'symbol': 'BTCUSDT'}
+2025-06-24 19:37:40,279 - INFO - Connected to Binance Futures Testnet
+2025-06-24 19:37:40,279 - INFO - Market order placed: {'status': 'FILLED', 'orderId': 1, 'symbol': 'BTCUSDT'}
+2025-06-24 19:37:40,910 - INFO - Connected to Binance Futures Testnet
