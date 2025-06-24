@@ -27,22 +27,23 @@ A simplified Python trading bot built for the Binance USDT-M Futures Testnet. Th
 
 1. **Clone this repository** : 
 
-git clone https://github.com/your-username/binance_trading_bot.git
-cd binance_trading_bot
+    git clone https://github.com/your-username/binance_trading_bot.git
+
+    cd binance_trading_bot
 
 2. **Install Dependencies** : 
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3. **Configure your .env file** :
 
-Create a .env file in the root folder and add your Binance Testnet API keys:
+    Create a .env file in the root folder and add your Binance Testnet API keys:
 
-API_KEY=your_testnet_api_key
+    API_KEY=your_testnet_api_key
 
-API_SECRET=your_testnet_api_secret
+    API_SECRET=your_testnet_api_secret
 
-BASE_URL=https://testnet.binancefuture.com
+    BASE_URL=https://testnet.binancefuture.com
 
 
 
