@@ -39,7 +39,9 @@ pip install -r requirements.txt
 Create a .env file in the root folder and add your Binance Testnet API keys:
 
 API_KEY=your_testnet_api_key
+
 API_SECRET=your_testnet_api_secret
+
 BASE_URL=https://testnet.binancefuture.com
 
 
@@ -53,11 +55,11 @@ python main.py
 
 You’ll be prompted to enter:
 
--Trading symbol (e.g., BTCUSDT)
--Order type (market or limit)
--Order side (buy or sell)
--Quantity
--Limit price (if applicable)
+- Trading symbol (e.g., BTCUSDT)
+- Order type (market or limit)
+- Order side (buy or sell)
+- Quantity
+- Limit price (if applicable)
 
 
 
